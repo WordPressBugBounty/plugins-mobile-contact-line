@@ -3,7 +3,7 @@ Contributors: YYDevelopment
 Tags: mobile contact line,  whatsapp button, phone button, email button, call now button
 Requires at least: 5.0
 Tested up to: 6.7
-Stable tag: 2.4.1
+Stable tag: 2.4.2
 Requires PHP: 5.2.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -121,6 +121,10 @@ Under the tag "settings" on the admin panel you will have the option to edit the
 
 = 2.4.1 =
 * Fixed broken access control vulnerability 
+
+= 2.4.2 =
+* Reduce the z-index value from 9999999999999999999 to 999999999
+
 
 == Upgrade Notice ==
 

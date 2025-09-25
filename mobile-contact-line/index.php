@@ -4,7 +4,7 @@
 Plugin Name: YYDevelopment - Mobile Contact Line
 Plugin URI:  https://www.yydevelopment.com/yydevelopment-wordpress-plugins/
 Description: Simple plugin that allow you add mobile contact line to your site
-Version:     2.4.1
+Version:     2.4.2
 Author:      YYDevelopment
 Author URI:  https://www.yydevelopment.com/
 */

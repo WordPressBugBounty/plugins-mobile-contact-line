@@ -228,7 +228,7 @@
                 $mobile_line_style .= 'left: 0px;';
                 $mobile_line_style .= 'right: 0px;';
                 $mobile_line_style .= 'bottom: 0px;';
-                $mobile_line_style .= 'z-index: 9999999999999999999;';
+                $mobile_line_style .= 'z-index: 999999999;';
                 $mobile_line_style .= 'border-top: 3px solid #fff;';
                 $mobile_line_style .= 'display: table;';
                 $mobile_line_style .= 'width: 100%;';
