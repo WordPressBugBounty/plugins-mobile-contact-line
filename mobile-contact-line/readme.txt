@@ -2,7 +2,7 @@
 Contributors: YYDevelopment
 Tags: mobile contact line,  whatsapp button, phone button, email button, call now button
 Requires at least: 5.0
-Tested up to: 6.7
+Tested up to: 6.9
 Stable tag: 2.4.2
 Requires PHP: 5.2.4
 License: GPLv2 or later
