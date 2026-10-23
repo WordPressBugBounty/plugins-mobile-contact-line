@@ -1,8 +1,8 @@
 ﻿=== Mobile Contact Line ===
-Contributors: YYDevelopment
+Contributors: yydevelopment, yochay22
 Tags: mobile contact line,  whatsapp button, phone button, email button, call now button
 Requires at least: 5.0
-Tested up to: 6.9
+Tested up to: 7.1
 Stable tag: 2.4.2
 Requires PHP: 5.2.4
 License: GPLv2 or later
